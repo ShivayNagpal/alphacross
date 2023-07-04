@@ -1,0 +1,1 @@
+The project requires an openAI API key stored in the variable `key` in a script file called `openai_key.py` located in the root directory.
